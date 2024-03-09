@@ -1,0 +1,29 @@
+.divA{
+    height: 200px;
+        width: 200px;
+        background-color:#166cce;
+
+}
+.divB{
+background-color: bisque;
+height: 75%;
+width: 75%;
+}
+.divC{
+    color: rgb(179, 34, 166);
+    background-color: rgb(218, 125, 13);
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.divD{
+    width: 50%;
+    height: 75vh;
+    background-color: rgb(228, 10, 130);
+}
+.divE{
+    width: 75vw;
+        height: 50%;
+        background-color: rgb(11, 250, 91);
+
+}
